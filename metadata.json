@@ -1,0 +1,6 @@
+{
+  "name": "Live Emotion Detector",
+  "description": "Real-time facial expression detection using MediaPipe.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
